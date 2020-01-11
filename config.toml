@@ -1,0 +1,8 @@
+baseURL = "http://m.yndme.com/"
+defaultContentLanguage = "zh"
+languageCode = "zh-cn"
+title = "聚中能源"
+theme = "ananke"
+
+[params]
+recent_posts_number = 100

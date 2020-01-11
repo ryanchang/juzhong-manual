@@ -1,0 +1,35 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.bold {
+  font-weight: 900;
+  text-align: center;
+}
+
+div {
+  margin-bottom: 1em;
+}
+
+div.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10px;
+}
+
+div.cardcontainer {
+  padding: 1px;
+}
+
+div.card img {
+  overflow: hidden;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+img.showcase {
+  border-radius: 10px;
+  margin-top: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
